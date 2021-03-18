@@ -260,7 +260,336 @@
     <display-name lang="pt">Cinemax</display-name>
     <icon src="https://i.meuguia.tv/logos/new/mnx.png" />
     <url>http://www.meuguia.tv</url>
-  </channel>    
+  </channel>  
+	
+<channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hpl.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="pt">TNT Series</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tns.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+	
+ 
+  <programme start="20210318131000 -0300" stop="20210318145500 -0300" channel="HBO Plus">
+    <title lang="pt">Obsessão</title>
+  </programme>
+  <programme start="20210318145500 -0300" stop="20210318180000 -0300" channel="HBO Plus">
+    <title lang="pt">O Senhor dos Anéis: As Duas Torres</title>
+  </programme>
+  <programme start="20210318180000 -0300" stop="20210318194000 -0300" channel="HBO Plus">
+    <title lang="pt">Primeiro Bailarino</title>
+  </programme>
+  <programme start="20210318194000 -0300" stop="20210318220000 -0300" channel="HBO Plus">
+    <title lang="pt">Harry Potter e as Relíquias da Morte: Parte 2</title>
+  </programme>
+  <programme start="20210318220000 -0300" stop="20210319002500 -0300" channel="HBO Plus">
+    <title lang="pt">Valerian e a Cidade dos Mil Planetas</title>
+  </programme>
+  <programme start="20210319002500 -0300" stop="20210319011500 -0300" channel="HBO Plus">
+    <title lang="pt">Batwoman</title>
+  </programme>
+  <programme start="20210319011500 -0300" stop="20210319041000 -0300" channel="HBO Plus">
+    <title lang="pt">It: Capítulo Dois</title>
+  </programme>
+  <programme start="20210319041000 -0300" stop="20210319055500 -0300" channel="HBO Plus">
+    <title lang="pt">Eu Ainda sei o que Vocês Fizeram no Verão Passado</title>
+  </programme>
+  <programme start="20210319055500 -0300" stop="20210319074500 -0300" channel="HBO Plus">
+    <title lang="pt">Jogo de Poder</title>
+  </programme>
+  <programme start="20210319074500 -0300" stop="20210319090500 -0300" channel="HBO Plus">
+    <title lang="pt">Batman - A Máscara do Fantasma</title>
+  </programme>
+  <programme start="20210319090500 -0300" stop="20210319113000 -0300" channel="HBO Plus">
+    <title lang="pt">Harry Potter e a Ordem da Fênix</title>
+  </programme>
+  <programme start="20210319113000 -0300" stop="20210319132000 -0300" channel="HBO Plus">
+    <title lang="pt">Talk-Show - Reinventando a Comédia</title>
+  </programme>
+  <programme start="20210319132000 -0300" stop="20210319150500 -0300" channel="HBO Plus">
+    <title lang="pt">Quero Matar meu Chefe</title>
+  </programme>
+  <programme start="20210319150500 -0300" stop="20210319154000 -0300" channel="HBO Plus">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20210319154000 -0300" stop="20210319171500 -0300" channel="HBO Plus">
+    <title lang="pt">Ultravioleta</title>
+  </programme>
+  <programme start="20210319171500 -0300" stop="20210319192000 -0300" channel="HBO Plus">
+    <title lang="pt">As Panteras</title>
+  </programme>
+  <programme start="20210319192000 -0300" stop="20210319201000 -0300" channel="HBO Plus">
+    <title lang="pt">Batwoman</title>
+  </programme>
+  <programme start="20210319201000 -0300" stop="20210319220000 -0300" channel="HBO Plus">
+    <title lang="pt">Talk-Show - Reinventando a Comédia</title>
+  </programme>
+  <programme start="20210319220000 -0300" stop="20210319234000 -0300" channel="HBO Plus">
+    <title lang="pt">Professora Sem Classe</title>
+  </programme>
+  <programme start="20210319234000 -0300" stop="20210320013000 -0300" channel="HBO Plus">
+    <title lang="pt">Tirando o Atraso</title>
+  </programme>
+  <programme start="20210320013000 -0300" stop="20210320032000 -0300" channel="HBO Plus">
+    <title lang="pt">Passe Livre</title>
+  </programme>
+  <programme start="20210320032000 -0300" stop="20210320050500 -0300" channel="HBO Plus">
+    <title lang="pt">Meu Amante é de Outro Mundo</title>
+  </programme>
+  <programme start="20210320050500 -0300" stop="20210320073500 -0300" channel="HBO Plus">
+    <title lang="pt">Harry Potter e as Relíquias da Morte: Parte 1</title>
+  </programme>
+  <programme start="20210320073500 -0300" stop="20210320101500 -0300" channel="HBO Plus">
+    <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
+  </programme>
+  <programme start="20210320101500 -0300" stop="20210320122000 -0300" channel="HBO Plus">
+    <title lang="pt">Os Bad Boys</title>
+  </programme>
+  <programme start="20210320122000 -0300" stop="20210320145500 -0300" channel="HBO Plus">
+    <title lang="pt">Doutor Sono</title>
+  </programme>
+  <programme start="20210320145500 -0300" stop="20210320163500 -0300" channel="HBO Plus">
+    <title lang="pt">A Maldição da Chorona</title>
+  </programme>
+  <programme start="20210320163500 -0300" stop="20210320182500 -0300" channel="HBO Plus">
+    <title lang="pt">Eu Sei o que Vocês Fizeram no Verão Passado</title>
+  </programme>
+  <programme start="20210320182500 -0300" stop="20210320201500 -0300" channel="HBO Plus">
+    <title lang="pt">Eu Ainda sei o que Vocês Fizeram no Verão Passado</title>
+  </programme>
+  <programme start="20210320201500 -0300" stop="20210320220000 -0300" channel="HBO Plus">
+    <title lang="pt">Obsessão</title>
+  </programme>
+  <programme start="20210320220000 -0300" stop="20210321003500 -0300" channel="HBO Plus">
+    <title lang="pt">Doutor Sono</title>
+  </programme>
+  <programme start="20210318142700 -0300" stop="20210318151500 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210318151500 -0300" stop="20210318160300 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210318160300 -0300" stop="20210318165200 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210318165200 -0300" stop="20210318173600 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210318173600 -0300" stop="20210318182600 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210318182600 -0300" stop="20210318192300 -0300" channel="TNT Series">
+    <title lang="pt">Irmãos Freitas</title>
+  </programme>
+  <programme start="20210318192300 -0300" stop="20210318200900 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210318200900 -0300" stop="20210318210000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210318210000 -0300" stop="20210318214900 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210318214900 -0300" stop="20210318223400 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210318223400 -0300" stop="20210318232400 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210318232400 -0300" stop="20210319001200 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210319001200 -0300" stop="20210319011700 -0300" channel="TNT Series">
+    <title lang="pt">The Hour</title>
+  </programme>
+  <programme start="20210319011700 -0300" stop="20210319020500 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210319020500 -0300" stop="20210319024900 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210319024900 -0300" stop="20210319033300 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210319033300 -0300" stop="20210319043200 -0300" channel="TNT Series">
+    <title lang="pt">The Hour</title>
+  </programme>
+  <programme start="20210319043200 -0300" stop="20210319051600 -0300" channel="TNT Series">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+  </programme>
+  <programme start="20210319051600 -0300" stop="20210319060000 -0300" channel="TNT Series">
+    <title lang="pt">Mapa do Pop</title>
+  </programme>
+  <programme start="20210319060000 -0300" stop="20210319064000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210319064000 -0300" stop="20210319072800 -0300" channel="TNT Series">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+  </programme>
+  <programme start="20210319072800 -0300" stop="20210319081500 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210319081500 -0300" stop="20210319090200 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210319090200 -0300" stop="20210319094800 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210319094800 -0300" stop="20210319103400 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210319103400 -0300" stop="20210319111900 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210319111900 -0300" stop="20210319120200 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210319120200 -0300" stop="20210319125100 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210319125100 -0300" stop="20210319133600 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210319133600 -0300" stop="20210319142600 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210319142600 -0300" stop="20210319151300 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210319151300 -0300" stop="20210319160100 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210319160100 -0300" stop="20210319164800 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210319164800 -0300" stop="20210319173200 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210319173200 -0300" stop="20210319182200 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210319182200 -0300" stop="20210319185200 -0300" channel="TNT Series">
+    <title lang="pt">Mapa do Pop</title>
+  </programme>
+  <programme start="20210319185200 -0300" stop="20210319192300 -0300" channel="TNT Series">
+    <title lang="pt">Mapa do Pop</title>
+  </programme>
+  <programme start="20210319192300 -0300" stop="20210319200900 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210319200900 -0300" stop="20210319210000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210319210000 -0300" stop="20210319214500 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210319214500 -0300" stop="20210319223200 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210319223200 -0300" stop="20210319233000 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210319233000 -0300" stop="20210320001700 -0300" channel="TNT Series">
+    <title lang="pt">4 Blocks</title>
+  </programme>
+  <programme start="20210320001700 -0300" stop="20210320011600 -0300" channel="TNT Series">
+    <title lang="pt">The Hour</title>
+  </programme>
+  <programme start="20210320011600 -0300" stop="20210320020600 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320020600 -0300" stop="20210320024900 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210320024900 -0300" stop="20210320033300 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320033300 -0300" stop="20210320043200 -0300" channel="TNT Series">
+    <title lang="pt">The Hour</title>
+  </programme>
+  <programme start="20210320043200 -0300" stop="20210320051600 -0300" channel="TNT Series">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+  </programme>
+  <programme start="20210320051600 -0300" stop="20210320060000 -0300" channel="TNT Series">
+    <title lang="pt">Mapa do Pop</title>
+  </programme>
+  <programme start="20210320060000 -0300" stop="20210320064600 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320064600 -0300" stop="20210320073200 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320073200 -0300" stop="20210320081900 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320081900 -0300" stop="20210320090400 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320090400 -0300" stop="20210320095100 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320095100 -0300" stop="20210320103700 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210320103700 -0300" stop="20210320112500 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210320112500 -0300" stop="20210320121100 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210320121100 -0300" stop="20210320130000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210320130000 -0300" stop="20210320134700 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+  </programme>
+  <programme start="20210320134700 -0300" stop="20210320143100 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210320143100 -0300" stop="20210320151700 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210320151700 -0300" stop="20210320160200 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210320160200 -0300" stop="20210320165000 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210320165000 -0300" stop="20210320173400 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210320173400 -0300" stop="20210320182400 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320182400 -0300" stop="20210320191000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320191000 -0300" stop="20210320200000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320200000 -0300" stop="20210320205000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320205000 -0300" stop="20210320213700 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20210320213700 -0300" stop="20210320222500 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210320222500 -0300" stop="20210320230900 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210320230900 -0300" stop="20210320235900 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+  <programme start="20210320235900 -0300" stop="20210321004600 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+  </programme>
+</tv>	
 	  
   <programme start="20210317171100 -0300" stop="20210317172800 -0300" channel="Cartoon Network">
     <title lang="pt">O Mundo de Greg</title>
